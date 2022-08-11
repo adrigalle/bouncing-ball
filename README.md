@@ -3,7 +3,7 @@
 ## Description
 This bouncing ball animation consists of a div object that bounces off a container and changes color everytime it bounces off a wall. 
 
-## Future Developments
+## Roadmap
 I would love to make the ball sort of squish as it bouncess off the wall
 
 ## Support
